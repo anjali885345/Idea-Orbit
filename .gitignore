@@ -1,0 +1,10 @@
+Porject Structure and Project Files.txt
+README.md
+
+# Local environment files and generated output
+.env
+.env.*
+!.env.example
+client/.env
+server/.env
+client/dist

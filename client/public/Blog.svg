@@ -1,0 +1,11 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- The classic, elegant gradient. No distractions. -->
+    <linearGradient id="maestroGradient" x1="48" y1="20" x2="208" y2="236" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A050D8"/>
+      <stop offset="1" stop-color="#48D1CC"/>
+    </linearGradient>
+  </defs>
+  <!-- Simple I mark for Idea Orbit -->
+  <path d="M72 20H184V52H152V204H184V236H72V204H104V52H72V20Z" fill="url(#maestroGradient)"/>
+</svg>
